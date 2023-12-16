@@ -1,0 +1,154 @@
+﻿State,SEX,DATE_DIED,AGE,Disease
+Kerala,1,03/05/2020,65,Pregnant
+Kerala,2,03/06/2020,72,Hipertension
+Kerala,2,09/06/2020,55,Diabetes
+Kerala,1,12/06/2020,53,Pregnant
+Kerala,2,21/06/2020,68,Diabetes
+Kerala,1,9999-99-99,40,Pregnant
+Kerala,1,9999-99-99,64,Pregnant
+Kerala,1,9999-99-99,64,Pregnant
+Kerala,1,9999-99-99,37,Pregnant
+Kerala,1,9999-99-99,25,Pregnant
+Kerala,1,9999-99-99,38,Pregnant
+Kerala,2,9999-99-99,24,Hipertension
+Kerala,2,9999-99-99,30,Obesity
+Kerala,2,9999-99-99,55,Renal Chronic
+Kerala,1,9999-99-99,48,Pregnant
+Kerala,1,9999-99-99,23,Pregnant
+Kerala,1,9999-99-99,80,Pregnant
+Kerala,2,9999-99-99,61,Renal Chronic
+Kerala,2,9999-99-99,54,Smoker
+Kerala,1,9999-99-99,64,Renal Chronic
+Kerala,2,9999-99-99,59,Renal Chronic
+Kerala,2,9999-99-99,30,Renal Chronic
+Kerala,2,9999-99-99,45,Renal Chronic
+Kerala,1,9999-99-99,26,Renal Chronic
+Kerala,1,9999-99-99,38,Renal Chronic
+Kerala,2,9999-99-99,24,Renal Chronic
+Kerala,2,9999-99-99,32,Renal Chronic
+Kerala,2,9999-99-99,49,Renal Chronic
+Kerala,2,9999-99-99,39,Renal Chronic
+Kerala,2,9999-99-99,27,Renal Chronic
+Kerala,2,9999-99-99,45,Renal Chronic
+Kerala,1,9999-99-99,57,Renal Chronic
+Delhi,2,9999-99-99,25,Diabetes
+Kerala,2,9999-99-99,37,Diabetes
+Telengana,1,9999-99-99,49,Diabetes
+Delhi,2,9999-99-99,45,Diabetes
+Kerala,1,9999-99-99,20,Diabetes
+Telengana,1,9999-99-99,56,Diabetes
+Delhi,2,9999-99-99,47,Diabetes
+Haryana,1,9999-99-99,50,Diabetes
+Kerala,1,9999-99-99,37,Diabetes
+Rajasthan,2,9999-99-99,45,Diabetes
+Telengana,1,9999-99-99,46,Diabetes
+Uttar Pradesh,1,9999-99-99,26,Diabetes
+Delhi,1,9999-99-99,43,Diabetes
+Haryana,2,9999-99-99,27,Diabetes
+Kerala,1,9999-99-99,28,Diabetes
+Rajasthan,2,9999-99-99,28,Diabetes
+Telengana,1,9999-99-99,25,Diabetes
+Uttar Pradesh,1,9999-99-99,30,Diabetes
+Delhi,1,9999-99-99,23,Diabetes
+Haryana,2,9999-99-99,59,Diabetes
+Kerala,2,9999-99-99,33,Diabetes
+Rajasthan,2,9999-99-99,16,Diabetes
+Telengana,1,9999-99-99,62,Diabetes
+Uttar Pradesh,2,9999-99-99,56,Diabetes
+Delhi,1,9999-99-99,58,Diabetes
+Haryana,1,9999-99-99,48,Diabetes
+Kerala,2,9999-99-99,36,Diabetes
+Rajasthan,1,9999-99-99,28,Diabetes
+Tamil Nadu,1,9999-99-99,25,Diabetes
+Telengana,1,9999-99-99,24,Diabetes
+Union Territory of Ladakh,1,9999-99-99,25,Diabetes
+Uttar Pradesh,2,9999-99-99,33,Diabetes
+Delhi,1,9999-99-99,30,Diabetes
+Haryana,2,9999-99-99,30,Diabetes
+Kerala,2,9999-99-99,27,Diabetes
+Rajasthan,1,9999-99-99,25,CardioVascular
+Tamil Nadu,2,9999-99-99,57,CardioVascular
+Telengana,2,9999-99-99,57,CardioVascular
+Union Territory of Ladakh,2,9999-99-99,57,CardioVascular
+Uttar Pradesh,1,9999-99-99,44,CardioVascular
+Delhi,2,9999-99-99,66,CardioVascular
+Haryana,1,9999-99-99,25,CardioVascular
+Karnataka,1,9999-99-99,24,CardioVascular
+Kerala,1,9999-99-99,24,CardioVascular
+Maharashtra,1,9999-99-99,25,CardioVascular
+Punjab,1,9999-99-99,52,CardioVascular
+Rajasthan,1,9999-99-99,51,CardioVascular
+Tamil Nadu,1,9999-99-99,26,CardioVascular
+Telengana,1,9999-99-99,23,CardioVascular
+Union Territory of Jammu and Kashmir,1,9999-99-99,35,CardioVascular
+Union Territory of Ladakh,1,9999-99-99,56,CardioVascular
+Uttar Pradesh,2,9999-99-99,19,CardioVascular
+Delhi,2,9999-99-99,90,CardioVascular
+Haryana,1,9999-99-99,43,CardioVascular
+Karnataka,1,9999-99-99,27,CardioVascular
+Kerala,2,9999-99-99,34,CardioVascular
+Maharashtra,1,9999-99-99,28,CardioVascular
+Punjab,1,9999-99-99,32,CardioVascular
+Rajasthan,2,9999-99-99,62,CardioVascular
+Tamil Nadu,1,9999-99-99,37,CardioVascular
+Telengana,2,9999-99-99,38,CardioVascular
+Union Territory of Jammu and Kashmir,1,9999-99-99,34,Pneumonia
+Union Territory of Ladakh,1,9999-99-99,26,Pneumonia
+Uttar Pradesh,1,9999-99-99,49,Pneumonia
+Delhi,1,9999-99-99,24,Pneumonia
+Haryana,2,9999-99-99,28,Pneumonia
+Karnataka,2,9999-99-99,27,Pneumonia
+Kerala,1,9999-99-99,26,Pneumonia
+Maharashtra,1,9999-99-99,27,Pneumonia
+Punjab,2,9999-99-99,52,Pneumonia
+Rajasthan,2,9999-99-99,30,Pneumonia
+Tamil Nadu,2,9999-99-99,46,Pneumonia
+Telengana,2,9999-99-99,56,Pneumonia
+Union Territory of Jammu and Kashmir,1,9999-99-99,36,Pneumonia
+Union Territory of Ladakh,1,9999-99-99,66,Pneumonia
+Uttar Pradesh,2,9999-99-99,33,Hipertension
+Andhra Pradesh,2,9999-99-99,38,Hipertension
+Delhi,2,9999-99-99,22,Hipertension
+Haryana,1,9999-99-99,59,Hipertension
+Karnataka,1,9999-99-99,24,Hipertension
+Kerala,1,9999-99-99,34,Hipertension
+Maharashtra,1,9999-99-99,33,Hipertension
+Punjab,2,9999-99-99,39,Hipertension
+Rajasthan,1,9999-99-99,29,Hipertension
+Tamil Nadu,1,9999-99-99,56,Hipertension
+Telengana,1,9999-99-99,80,Hipertension
+Union Territory of Jammu and Kashmir,1,9999-99-99,20,Hipertension
+Union Territory of Ladakh,2,9999-99-99,59,Hipertension
+Uttar Pradesh,1,9999-99-99,27,Pregnant
+Andhra Pradesh,1,9999-99-99,28,Obesity
+Delhi,2,9999-99-99,66,Obesity
+Haryana,1,9999-99-99,25,Obesity
+Karnataka,2,9999-99-99,58,Obesity
+Kerala,1,9999-99-99,54,Obesity
+Maharashtra,1,9999-99-99,36,Obesity
+Punjab,1,9999-99-99,26,Obesity
+Rajasthan,2,9999-99-99,34,Obesity
+Tamil Nadu,1,9999-99-99,25,Obesity
+Telengana,1,9999-99-99,34,Obesity
+Union Territory of Jammu and Kashmir,1,9999-99-99,14,Obesity
+Union Territory of Ladakh,2,9999-99-99,68,Obesity
+Uttar Pradesh,1,9999-99-99,30,Obesity
+Andhra Pradesh,1,9999-99-99,28,Obesity
+Delhi,1,9999-99-99,23,Obesity
+Haryana,1,9999-99-99,56,Obesity
+Karnataka,2,9999-99-99,31,Obesity
+Kerala,2,9999-99-99,50,Obesity
+Maharashtra,1,9999-99-99,42,Pregnant
+Punjab,2,9999-99-99,30,Smoker
+Rajasthan,1,9999-99-99,36,Smoker
+Tamil Nadu,2,9999-99-99,31,Smoker
+Telengana,2,9999-99-99,30,Smoker
+Union Territory of Jammu and Kashmir,1,9999-99-99,65,Smoker
+Union Territory of Ladakh,2,9999-99-99,51,Smoker
+Uttar Pradesh,1,9999-99-99,51,Smoker
+Andhra Pradesh,2,9999-99-99,30,Smoker
+Delhi,1,9999-99-99,64,Smoker
+Haryana,2,9999-99-99,24,Smoker
+Karnataka,1,9999-99-99,15,Smoker
+Kerala,1,26/02/2020,1,Smoker
+Maharashtra,2,05/04/2020,14,Smoker
